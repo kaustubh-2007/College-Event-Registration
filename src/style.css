@@ -18,13 +18,14 @@ section {
 
 .navbar-brand,
 .navbar-nav .nav-link {
-  font-size: 1.1rem;
+  font-size: 1.1rem ;
+
 }
 
 
 .card:hover {
   transform: translateY(-5px);
-  transition: all 0.3s ease;
+  transition: all 0.3s ease ;
 }
 
 
